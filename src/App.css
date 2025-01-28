@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Motterdam";
+  src: url("./assets/font/Motterdam-K74zp.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NatureBeauty";
+  src: url("./assets/font/NatureBeautyPersonalUse-9Y2DK.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/font/PoppinsRegular-B2Bw.otf");
+  font-weight: normal;
+  font-style: normal;
+}
