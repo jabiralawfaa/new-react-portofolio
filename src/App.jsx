@@ -6,7 +6,7 @@ import HeroSection from "./component/HeroSection";
 import AboutSection from "./component/AboutSection";
 import Project from "./component/project";
 import Contact from "./component/contact";
-import ProfilePhoto from "./assets/img/Profile.jpg";
+import ProfilePhoto from "./assets/img/Profile.png";
 
 export default function App() {
   const [loading, setLoading] = useState(true);

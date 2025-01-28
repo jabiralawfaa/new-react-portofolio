@@ -67,7 +67,7 @@ const HeroSection = () => {
 
       <div className="mt-12 flex gap-6">
         <motion.a
-          href="https://github.com/yourusername"
+          href="https://github.com/jabiralawfaa"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.2, rotate: 5 }}
